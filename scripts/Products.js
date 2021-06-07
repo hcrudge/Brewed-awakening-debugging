@@ -27,7 +27,7 @@ document.addEventListener(
         productPrice = product.price
       }
     }
-    window.alert(`${event.target.innerText} costs $${productPrice}.`)
+    window.alert(`Brewed Awakenings ${event.target.innerText} costs $${productPrice}.`)
   }
 }
 )
